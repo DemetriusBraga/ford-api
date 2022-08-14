@@ -18,6 +18,6 @@ deploy:
     all_branches: true
   skip_cleanup: true
   api_key:
-    secure: $HEROKU_API_KEY
-  app: ford-api-seunome
+    secure: Mi+qx6szZDKtsykAtNaC9AMeOZGqjTcSTJycMdmuWZoIngg0etnM0EThKdMXCpf7HqRFG5yeh0nJ1HB9nOTwoCsJVHH4DbClJ0ZfE686kfBrc7Z1wT+gj4OAWbrWG22Q3bj+WFUzCcX4CbH5BwBRjkCm/nL/xbBSy+pPh8b7yTn9dvOvmJeLjYYevKC7qBoUr/Vn/W6GpQgOdNJXHbM6hTqcktUuivlJYC1u5FnqYJlizUEMFCQrVl4l9A5rKR1tNf7Dwd8MmlHZGxi0yVQkjTtJNVm03H0/8bpLBbp+VCv0ujS84C8C9mAZIBIZ63M26swFkOhRsPcwRX+0SkgETz2XCsLeXQ4VH5NctHQxjdut2kv466P21fgmu55lb8DCLrG+Kg8H8kodfP6G6zulTVBCDzdMA8EObne2sj4BWYSiXTvWBER7Q5z3KydZoukt1KFTpO+fvwRVBH+2e+5hjI6UyPVc86edbu8lCvCLmI2z3TGJIv6mBb4Tri91bdJOPP1J9Rq1+MGwpIDBESjoO16cZJlYleuWlgJiKUXFdyEemSpv3yeICYqwHMo6s+b99KkScaP+PvqS8P+HqFLQSS1akxibhgGlf6AYHt6PCqUmg03ELDlWMEF2uwD0ks1cboFlhMYmdr6y2tc72ym55eUXFDLn5n5zB6Pxj7sM4KU=
+  app: ford-api-senai
   edge: true
