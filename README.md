@@ -1,9 +1,8 @@
 # ford-api
-Projeto FORD-API
+Projeto FORD-API - DESAFIO-DevOps-SENAI-CIMATEC
 
 [![Build Status](https://app.travis-ci.com/DemetriusBraga/ford-api.svg?token=43S6wzNMk963cmX3kx7z&branch=main)](https://app.travis-ci.com/DemetriusBraga/ford-api)
 
-DESAFIO-DevOps-SENAI-CIMATEC
 
 Agora, que você já compreende a cultura DevOps, vamos aplicar os conhecimentos na construção de uma Pipeline de 
 CI/CD de DevOps. Neste desafio, o seu papel é criar uma Pipeline de CI/CD que permita automatizar o processo de 
